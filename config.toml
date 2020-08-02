@@ -207,8 +207,8 @@ languageName = "English"
 hasCJKLanguage = false
 # copyright description used only for seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
-#TAG en.menu
 
+#TAG en.menu
 # Menu config
 [languages.en.menu]
 [[languages.en.menu.main]]

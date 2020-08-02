@@ -1,0 +1,1 @@
+hugo.exe server --disableFastRender -e production -p 12345 --gc --minify
