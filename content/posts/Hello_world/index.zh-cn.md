@@ -68,6 +68,4 @@ printf("Hello World")
 一个 **技巧** 横幅
 {{< /admonition >}}
 
-{{< bilibili av271 >}}
-
-{{< tweet 917359331535966209 >}}
+{{< bilibili BV1xx411c7Z6 >}}
