@@ -5,7 +5,7 @@ date: 2020-07-17T17:25:40+08:00
 draft: false
 resources:
 - name: "featured-image"
-  src: "https://cdn.jsdelivr.net/gh/tio-plato/Picture01/Hello_world/2020_08_04-03_36-featured-image-01b2.webp"
+  src: "https://cdn.jsdelivr.net/gh/tio-plato/Picture01@picture/Hello_world/2020_08_04-03_36-featured-image-01b2.webp"
 
 
 ---
